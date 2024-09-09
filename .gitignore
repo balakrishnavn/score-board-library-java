@@ -1,0 +1,6 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/.dir-locals.el
+/.factorypath
